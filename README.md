@@ -3,7 +3,13 @@
 A real-time healthcare monitoring system that measures **Heart Rate (BPM), Blood Oxygen Saturation (SpO₂), Temperature, and Humidity** using IoT sensors and transmits the collected data to the cloud for remote monitoring and analysis.
 
 ---
+## 📂 Repository Contents
 
+- `code/` – ESP32 firmware source code
+- `images/` – Architecture diagrams, circuit diagrams, prototype photos, OLED output and dashboard screenshots
+- `report/` – Project report and presentation
+
+---
 ##  Project Overview
 
 This project was developed to provide continuous health monitoring through low-cost IoT devices. Sensor data is collected in real time, displayed locally on an OLED screen, and uploaded to the ThingSpeak cloud platform for remote visualization and analytics.
