@@ -19,7 +19,7 @@ The system is capable of monitoring:
 
 ##  System Architecture
 
-![System Architecture](Images/architecture.png)
+![System Architecture](images/architecture.jpg)
 
 The system consists of:
 
@@ -68,11 +68,11 @@ The system consists of:
 
 ### Circuit Setup
 
-![Circuit Diagram](Images/circuit_diagram.png)
+![Circuit Diagram](images/circuit_diagram.jpg)
 
 ### Prototype
 
-![Prototype](Images/prototype.jpg)
+![Prototype](images/prototype.jpg)
 
 ---
 
@@ -80,11 +80,11 @@ The system consists of:
 
 ### OLED Display Output
 
-![OLED Output](Images/oled_output.jpg)
+![OLED Output](images/oled_output.jpg)
 
 ### ThingSpeak Dashboard
 
-![ThingSpeak Dashboard](Images/thingspeak_dashboard.png)
+![ThingSpeak Dashboard](images/thingspeak_dashboard.jpg)
 
 ---
 
@@ -108,7 +108,6 @@ Smart-Healthcare-Monitoring-System
 │
 ├── code/
 │   ├── IOT_in_SmartHealthcare.ino
-│   └── MAX30102_Test.ino
 │
 ├── images/
 │   ├── architecture.png
