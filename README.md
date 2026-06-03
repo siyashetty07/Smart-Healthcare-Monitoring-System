@@ -107,7 +107,7 @@ Data was transmitted and visualized in real time using ThingSpeak cloud services
 Smart-Healthcare-Monitoring-System
 │
 ├── code/
-│   ├── IOT_in_SmartHealthcare.ino
+│   └── IOT_in_SmartHealthcare.ino
 │
 ├── images/
 │   ├── architecture.png
