@@ -19,10 +19,10 @@ DHT dht(DHTPIN, DHTTYPE);
 MAX30105 particleSensor;
 
 // -------- WiFi --------
-const char* ssid = "NIT-WIFI";
-const char* password = "12345678";
+const char* ssid = "YOUR_WIFI";
+const char* password = "YOUR_WIFI_PASSWORD";
 
-String apiKey = "SJ3O9AACS4UUA1A2";
+String apiKey = "YOUR_API_KEY";
 const char* server = "api.thingspeak.com";
 
 WiFiClient client;
